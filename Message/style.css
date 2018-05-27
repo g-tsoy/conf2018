@@ -1,0 +1,31 @@
+
+	.home_conf_title {
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 40px;
+	}
+	.home_conf_subtitle,#image_title{
+		text-align: center;
+	}
+	.justify {
+    font-size: 15px;
+    white-space: pre-wrap;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+.person-image {
+    margin: 0;
+    max-width: 100%;
+    box-shadow: 2px 2px 2px #888888;
+}
+.frontpage{
+	margin-top: 40px;
+}
+.person-title {
+    font-weight: bold;
+    font-size: 18x;
+}
+    .title_message{
+    text-align: center;
+    }
