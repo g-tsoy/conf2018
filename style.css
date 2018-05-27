@@ -1,0 +1,27 @@
+
+	.home_conf_title {
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 40px;
+	}
+	.home_conf_subtitle,#image_title, .attach {
+		text-align: center;
+	}
+	.info_wrapper, #activity{
+		margin-top: 30px;
+		margin-bottom: 20px; 
+		text-align: justify;
+		line-height: 1.5;
+
+	}
+	.img-responsive, #title_about_aksts{
+    	margin-top: 30px;
+
+	}
+	li{
+		margin-top: 10px;
+    	line-height: 1.6em;
+	}
+	#info_about_aksts{
+	 	line-height: 1.6em;	
+	}
