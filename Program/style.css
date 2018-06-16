@@ -1,0 +1,34 @@
+.img-responsive{
+	margin-top: 30px;
+
+}
+.frontpage{
+	margin-top: 40px;
+}
+
+.program_yellow {
+    background-color: #fde9d9;
+    width: 100%;
+    padding: 6px;
+}
+.program_basic {
+    width: 100%;
+    padding: 6px;
+}
+.section td {
+    border: 3px solid #fff;
+    width: 12.5%;
+    vertical-align: center;
+    text-align: center;
+    padding: 2px 4px;
+	height: 60px;
+;}
+.A{
+	background-color: lightgreen;
+}
+.B{
+	background-color: #CCFF66;
+}
+.C{
+	background-color: lightgreen;
+}
