@@ -7,7 +7,7 @@
 }
 
 .program_yellow {
-    background-color: #fde9d9;
+    background-color: #FFF2C9;
     width: 100%;
     padding: 6px;
 }
@@ -16,19 +16,27 @@
     padding: 6px;
 }
 .section td {
-    border: 3px solid #fff;
     width: 12.5%;
     vertical-align: center;
     text-align: center;
     padding: 2px 4px;
 	height: 60px;
-;}
+}
 .A{
-	background-color: lightgreen;
+	background-color: #A9BED2;
 }
 .B{
-	background-color: #CCFF66;
+	background-color: #FFD79D;
 }
 .C{
-	background-color: lightgreen;
+	background-color: #A9BED2;
+}
+.D{
+	background-color: #A9BED2;
+}
+.E{
+	background-color: #FFFAB8;
+}
+.img-res{
+    width: 60%;
 }
