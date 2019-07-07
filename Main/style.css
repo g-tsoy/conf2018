@@ -1,0 +1,24 @@
+
+.home_conf_title, .contacts {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 40px;
+ }
+.home_conf_subtitle, .attach{
+	text-align: center;
+}
+
+.img-responsive{
+	margin-top: 30px;
+
+}
+.frontpage{
+	margin-top: 40px;
+}
+.invite_wrapper{
+	margin-top: 40px;
+    text-align: center;
+}
+.respect{
+	margin-top: 30px;
+}

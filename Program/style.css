@@ -1,0 +1,42 @@
+.img-responsive{
+	margin-top: 30px;
+
+}
+.frontpage{
+	margin-top: 40px;
+}
+
+.program_yellow {
+    background-color: #FFF2C9;
+    width: 100%;
+    padding: 6px;
+}
+.program_basic {
+    width: 100%;
+    padding: 6px;
+}
+.section td {
+    width: 12.5%;
+    vertical-align: center;
+    text-align: center;
+    padding: 2px 4px;
+	height: 60px;
+}
+.A{
+	background-color: #A9BED2;
+}
+.B{
+	background-color: #FFD79D;
+}
+.C{
+	background-color: #A9BED2;
+}
+.D{
+	background-color: #A9BED2;
+}
+.E{
+	background-color: #FFFAB8;
+}
+.img-res{
+    width: 60%;
+}
